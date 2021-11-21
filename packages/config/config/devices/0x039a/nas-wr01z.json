@@ -2,7 +2,7 @@
 	"manufacturer": "Inteset",
 	"manufacturerId": "0x039a",
 	"label": "NAS-WR01Z",
-	"description": "Wall Plug Switch",
+	"description": "Wall Plug Switch 12A",
 	"devices": [
 		{
 			"productType": "0x0003",
